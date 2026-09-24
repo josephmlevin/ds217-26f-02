@@ -1,15 +1,15 @@
 Cutoff: 130 mmHg
 Reason: 130 mmHg is the general lower bound for Stage 1 Hypertension
+P009
 P023
+P015
+P014
+P011
+P028
+P022
 P002
 P005
-P015
-P022
-P011
-P020
-P018
-P014
 P025
-P028
-P009
+P020
 P006
+P018

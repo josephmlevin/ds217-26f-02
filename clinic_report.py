@@ -32,7 +32,7 @@ def read_encounters(data_path):
     encounters = []
     skipped = 0
     with open(DATA_PATH, 'r', encoding='utf-8') as file:
-        lines = file.read().split("\n")
+        lines = file.read().splitlines()
 
     header = lines[0]
     rows = lines[1:] 
